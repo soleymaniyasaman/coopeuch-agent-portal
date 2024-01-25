@@ -1,0 +1,11 @@
+<svg id="bicicleta" xmlns="http://www.w3.org/2000/svg" width="119.48mm" height="77.57mm" viewBox="0 0 338.69 219.89">
+  <g>
+    <path d="M330.81,151c-2.27,1-30.24,0-30.24,0s-9.4-1-9.4-8" transform="translate(-86.66 -135.55)" style="fill: none;stroke: #6d7ea3;stroke-linecap: round;stroke-linejoin: round;stroke-width: 15px"/>
+    <circle cx="272.31" cy="153.51" r="58.88" style="fill: none;stroke: #6d7ea3;stroke-miterlimit: 10;stroke-width: 15px"/>
+    <circle cx="66.38" cy="153.51" r="58.88" style="fill: none;stroke: #6d7ea3;stroke-miterlimit: 10;stroke-width: 15px"/>
+    <polygon points="68.46 148.96 160.98 148.96 239.41 57.31 116.21 57.31 68.46 148.96" style="fill: none;stroke: #6d7ea3;stroke-linejoin: round;stroke-width: 15px"/>
+    <line x1="97.88" y1="27.89" x2="160.98" y2="148.96" style="fill: none;stroke: #6d7ea3;stroke-linecap: round;stroke-linejoin: round;stroke-width: 15px"/>
+    <path d="M324,154.34a491,491,0,0,0,35,134.72" transform="translate(-86.66 -135.55)" style="fill: none;stroke: #6d7ea3;stroke-linecap: round;stroke-linejoin: round;stroke-width: 15px"/>
+    <path d="M220.7,151.65H166.32c-5.9,0-11.63,6-11.18,12.19s1.46,9.91,9.1,11.28,19.92-10,30-10.37,8.55-.37,8.55-.37,4-.18,12.28-.18,9.58-5.43,9.59-6.67S225,151.65,220.7,151.65Z" transform="translate(-86.66 -135.55)" style="fill: #6d7ea3;stroke: #6d7ea3;stroke-width: 0px"/>
+  </g>
+</svg>

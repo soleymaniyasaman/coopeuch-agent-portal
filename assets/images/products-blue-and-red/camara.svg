@@ -1,0 +1,11 @@
+<svg id="camara" xmlns="http://www.w3.org/2000/svg" width="101.21mm" height="72.66mm" viewBox="0 0 286.88 205.97">
+  <g>
+    <path d="M162.34,188.34V176.51c0-2.35,2.36-4.26,5.26-4.26h11.22c2.91,0,5.26,1.91,5.26,4.26v11.83" transform="translate(-111.95 -148.27)" style="fill: #e62e39"/>
+    <path d="M191.14,188.34H177V178h-7.64v10.38h-14.1V176.51c0-5.5,5.53-10,12.31-10h11.22c6.79,0,12.32,4.47,12.32,10Z" transform="translate(-111.95 -148.27)" style="fill: #e62e39"/>
+  </g>
+  <path d="M391.33,247.57V210.45A24.43,24.43,0,0,0,366.9,186h-223a24.43,24.43,0,0,0-24.43,24.43V322.31a24.43,24.43,0,0,0,24.43,24.43h223a24.43,24.43,0,0,0,24.43-24.43V283.64" transform="translate(-111.95 -148.27)" style="fill: none;stroke: #283954;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 15px"/>
+  <path d="M301.65,185.53V163.78a8,8,0,0,0-8-8H234.92a8,8,0,0,0-8,8v21.75Z" transform="translate(-111.95 -148.27)" style="fill: none;stroke: #283954;stroke-miterlimit: 10;stroke-width: 15px"/>
+  <circle cx="152.33" cy="120.81" r="50.1" style="fill: #283954;opacity: 0"/>
+  <path d="M264.28,331.49a62.42,62.42,0,1,1,62.42-62.41A62.49,62.49,0,0,1,264.28,331.49Zm0-110.73a48.32,48.32,0,1,0,48.32,48.32A48.36,48.36,0,0,0,264.28,220.76Z" transform="translate(-111.95 -148.27)" style="fill: #e62e39"/>
+  <path d="M158.62,214.2V319.28" transform="translate(-111.95 -148.27)" style="fill: none;stroke: #283954;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 15px"/>
+</svg>
