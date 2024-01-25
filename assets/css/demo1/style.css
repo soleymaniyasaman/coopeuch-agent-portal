@@ -3922,8 +3922,8 @@ div.tox .tox-button--secondary {
   --bs-btn-active-border-color: rgba(5, 23, 20, 0.65);
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #ffffff;
-  --bs-btn-disabled-bg: #051714;
-  --bs-btn-disabled-border-color: #051714;
+  --bs-btn-disabled-bg: #c5c6c6;
+  --bs-btn-disabled-border-color: #c5c6c6;
 }
 
 .btn-warning {
@@ -24473,6 +24473,7 @@ div.tox .buy-now-wrapper .tox-button svg,
 .sidebar .sidebar-header .sidebar-toggler {
   cursor: pointer;
   width: 18px;
+  margin-top: 0.5rem;
 }
 
 .sidebar .sidebar-header .sidebar-toggler span {
